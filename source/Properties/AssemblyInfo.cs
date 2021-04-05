@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Mythicals")]
-[assembly: AssemblyDescription("Mythicals and hats!")]
+[assembly: AssemblyTitle("PayPal")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("yelks")]
-[assembly: AssemblyProduct("Mythicals")]
+[assembly: AssemblyProduct("PayPal")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
